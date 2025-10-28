@@ -81,7 +81,7 @@ Focused on **requirement analysis**, **SRS modeling**, and **data-driven design*
 ## 📊 GitHub Insights
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ducbii4202&theme=tokyonight&show_icons=true&hide_border=false" height="160px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=NguyenDucThanh&theme=tokyonight&show_icons=true&hide_border=false" height="160px"/>
   <img src="https://nirzak-streak-stats.vercel.app/?user=Ducbii4202&theme=tokyonight&hide_border=false" height="160px"/>
 </p>
 
