@@ -1,6 +1,9 @@
 <!-- 🌟 PROFILE HEADER -->
 <p align="center">
-  <img src="https://github.com/Ducbii4202/Ducbii4202/blob/main/BannerDucThanh.png" alt="Nguyen Duc Thanh Banner" width="100%">
+  <img src="https://github.com/Ducbii4202/Ducbii4202/blob/main/BannerDucThanh.png" 
+       alt="Nguyen Duc Thanh Banner" 
+       width="80%"
+       style="border-radius: 15px; box-shadow: 0 0 20px rgba(88,166,255,0.4);">
 </p>
 
 <p align="center">
