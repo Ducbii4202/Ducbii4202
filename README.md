@@ -1,6 +1,6 @@
 <!-- 🌟 PROFILE HEADER -->
 <p align="center">
-  <img src="https://github.com/Ducbii4202/Ducbii4202/blob/main/A_digital_graphic_personal_branding_header_feature.png" alt="Nguyen Duc Thanh Banner" width="100%">
+  <img src="https://github.com/Ducbii4202/Ducbii4202/blob/main/BannerDucThanh.png" alt="Nguyen Duc Thanh Banner" width="100%">
 </p>
 
 <p align="center">
