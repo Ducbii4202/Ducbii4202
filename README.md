@@ -105,6 +105,3 @@ Focused on **requirement analysis**, **SRS modeling**, and **data-driven design*
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 </p>
 
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=Ducbii4202&icon=2&color=0" />
-</p>
